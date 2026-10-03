@@ -169,6 +169,7 @@ This is a safe simulation, not a production CRM integration. Reviewer authentica
 
 Final demo video: **[link to be added]**
 
-##
-Live Project Link: **https://supportops-autonomous-ai-worker.streamlit.app**
+## Live Demo
+
+[Launch SupportOps AI Worker](https://supportops-autonomous-ai-worker.streamlit.app)
 
