@@ -1,0 +1,8 @@
+[
+  {"customer_id":"CUS-2001","customer_name":"Avery Chen","plan":"Growth Annual","balance":120.0,"previous_credits":[{"amount":10.0,"reason":"Courtesy adjustment"}]},
+  {"customer_id":"CUS-2002","customer_name":"Jordan Patel","plan":"Starter Monthly","balance":39.0,"previous_credits":[]},
+  {"customer_id":"CUS-2003","customer_name":"Morgan Rivera","plan":"Team Annual","balance":480.0,"previous_credits":[{"amount":25.0,"reason":"Service adjustment"}]},
+  {"customer_id":"CUS-2004","customer_name":"Casey Brooks","plan":"Growth Monthly","balance":89.0,"previous_credits":[]},
+  {"customer_id":"CUS-2005","customer_name":"Riley Thompson","plan":"Starter Annual","balance":299.0,"previous_credits":[{"amount":15.0,"reason":"Previous billing correction"}]},
+  {"customer_id":"CUS-2006","customer_name":"Taylor Kim","plan":"Enterprise Annual","balance":1200.0,"previous_credits":[{"amount":50.0,"reason":"Annual service credit"}]}
+]

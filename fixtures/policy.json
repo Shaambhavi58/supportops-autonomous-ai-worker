@@ -1,0 +1,27 @@
+{
+  "name": "CentrAlign Compensation Policy",
+  "version": "2026.1",
+  "rules": [
+    {
+      "id": "BILLING-01",
+      "summary": "A verified duplicate or incorrect billing charge may receive a credit up to $100.",
+      "max_automatic_amount": 100,
+      "eligible_categories": ["billing"],
+      "eligible_statuses": ["open", "pending"]
+    },
+    {
+      "id": "BILLING-02",
+      "summary": "Credits above $100 require a specialist review and are not eligible for this worker to apply.",
+      "max_automatic_amount": 100,
+      "eligible_categories": ["billing"],
+      "eligible_statuses": ["open", "pending"]
+    },
+    {
+      "id": "BILLING-03",
+      "summary": "Resolved tickets and non-billing cases cannot receive an automated billing credit.",
+      "max_automatic_amount": 0,
+      "eligible_categories": ["billing"],
+      "eligible_statuses": ["open", "pending"]
+    }
+  ]
+}
