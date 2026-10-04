@@ -167,7 +167,7 @@ This is a safe simulation, not a production CRM integration. Reviewer authentica
 
 ## Demo video
 
-Final demo video: **[link to be added]**
+Final demo video: [Launcg SupportOps AI Worker Video](https://drive.google.com/file/d/1mjF3t56oY6-rbGOp3K2NzM5o88csyYuZ/view?usp=sharing)
 
 ## Live Demo
 
